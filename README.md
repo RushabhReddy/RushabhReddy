@@ -34,7 +34,7 @@ I build reliable infrastructure, CI/CD systems, and developer platforms with a f
 
 ### 🌐 Find me
 
-- 🌐 [Portfolio](https://www.rushabhctl.dev)
+- 🌐 [Blog](https://www.rushabhctl.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rushabhchamle/)
 - 📄 [Resume](https://github.com/RushabhReddy/Resume-Archive)
 
